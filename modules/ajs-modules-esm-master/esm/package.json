@@ -1,0 +1,24 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebikHub/esm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RebikHub/esm/issues"
+  },
+  "homepage": "https://github.com/RebikHub/esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebikHub/platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RebikHub/platforms/issues"
+  },
+  "homepage": "https://github.com/RebikHub/platforms#readme",
+  "dependencies": {
+    "@rebikhub/ajs": "^1.0.0"
+  }
+}

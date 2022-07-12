@@ -1,0 +1,37 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint",
+    "build": "webpack --mode production",
+    "start": "webpack serve --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebikHub/import-export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RebikHub/import-export/issues"
+  },
+  "homepage": "https://github.com/RebikHub/import-export#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "core-js": "^3.15.2"
+  }
+}
